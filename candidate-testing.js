@@ -31,7 +31,7 @@ function gradeQuiz(candidateAnswers) {
 
   // TODO 1.2c: Let the candidate know if they have answered the question correctly or incorrectly // 
 if (candidateAnswer == correctAnswer) {
-  console.log("Great Job")
+  console.log("Great Job!")
 } else {
   console.log("Nice try.")
 }
